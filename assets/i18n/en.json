@@ -1,0 +1,107 @@
+{
+	"an_unexpected_error_occurred": "An unexpected error occurred",
+	"auth": {
+		"oauth": {
+			"must_grant_permissions": "You must grant permissions to this application in order to login"
+		}
+	},
+	"common": {
+		"email": "Email",
+		"first_name": "First Name",
+		"last_name": "Last Name",
+		"login": "Login",
+		"sign_up": "Sign Up",
+		"password": "Password",
+		"buy": "Buy",
+		"total": "Total",
+		"item": "Item",
+		"price": "Price",
+		"product": "Product",
+		"full_name": "Full Name",
+		"phone_number": "Phone Number",
+		"city": "City",
+		"street": "Street",
+		"house_number": "House Number",
+		"apartment_number": "Apartment Number",
+		"zip_code": "Zip Code",
+		"remarks": "Remarks",
+		"check_out": "Check Out",
+		"continue": "Continue"
+	},
+	"check_out": {
+		"complete_purchase": "Complete Purchase",
+		"choose_extra_options_for_your_order": "Choose extra options for your order",
+		"email_delivery_message": "Product keys will be sent to this email: <strong>{{emailAddress}}</strong>",
+		"fast_delivery_message": "If you chose the fast delivery option, you will get the keys within 15 minutes. Otherwise, it can take up to 24 hours",
+		"details_for_invoice": "Invoice details",
+		"process_payments_in_paypal_message": "We decided to process payments with PayPal website as it provides strong security. Even if you don't have a PayPal account, you can still pay via your credit card in PayPal's website"
+	},
+	"invoice": {
+		"company_name": "Company Name",
+		"osek_murshe": "Authorized Dealer",
+		"business_address": "Business Address"
+	},
+	"product": {
+		"buy_it_now": "Buy It Now",
+		"add_to_cart": "Add to cart",
+		"purchase_options": "Purchase Options",
+    "item_was_added_to_cart": "Item was added to cart",
+		"would_you_like_to": "Would you like to",
+		"continue_shopping": "Continue Shopping",
+		"go_to_checkout": "Go to Checkout"
+	},
+	"paypal_callback": {
+		"error_has_occured_in_paypal_payment": "Error has occured in paypal payment",
+		"processing": "Processing payment",
+		"your_transaction_could_not_be_processed": "Your transaction could not be processed"
+	},
+	"order_success": {
+		"thank_you_for_your_payment": "Thank you for your payment!",
+		"you_will_receive_email_confirmation_message": "You will receive an email confirmation shortly",
+		"your_order_number_is": "Your order number is {{orderId}}"
+	},
+	"sign_up": {
+		"a_valid_email_is_required": "A valid email is required",
+		"confirm_password": "Confirm Password",
+		"first_name_is_required": "First Name is required",
+		"last_name_is_required": "Last Name is required",
+		"password_confirmation_does_not_match_password": "Password confirmation does not match password",
+		"password_confirmation_is_required": "Password confirmation is required",
+		"password_is_required": "Password is required",
+		"password_should_be_at_least_x_characters": "Password should be at leat {{characters}} characters",
+		"some_of_the_input_fields_are_invalid": "Some of the input fields are invalid"
+	},
+	"sign_up_success": {
+		"check_your_email": "Check your Email!",
+		"we_sent_you_activation_link_message": "We’ve sent a message to {{emailAddress}} with a link to activate your account.<br>If you don’t see an email from us, be sure to check your spam folder. Sometimes things get lost in there.",
+		"you": "you",
+		"to": "to"
+	},
+	"shopping_cart": {
+		"shopping_cart": "Shopping Cart",
+		"you_have_x_items_in_cart": "You have {{itemsCount}} items in your shopping cart.",
+		"clear_shopping_cart": "Clear Shopping Cart"
+	},
+	"shopping_cart_summary": {
+		"order_summary": "Order Summary"
+	},
+	"login": {
+		"email_is_required": "Email is required",
+		"invalid_credentials": "Invalid credentials",
+		"password_is_required": "Password is required",
+		"login_with_facebook": "Login with Facebook",
+		"login_with_google": "Login with Google"
+	},
+	"verify": {
+		"user_was_verified": "User was verified",
+		"verification_code_is_incorrect": "Verification code is incorrect"
+	},
+	"verify_user": {
+		"verifing_account": "Verifing account"
+	},
+	"navbar": {
+		"home": "Home",
+		"login": "Login",
+		"logout": "Logout"
+	}
+}

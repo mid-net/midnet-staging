@@ -1,0 +1,109 @@
+{
+  "has already been taken": "כבר בשימוש",
+
+  "an_unexpected_error_occurred": "ארעה שגיאה. נסה לרענן את הדף",
+  "auth": {
+    "oauth": {
+      "must_grant_permissions": "עליך לאשר את חלון בקשת ההרשאות על מנת להתחבר"
+    }
+  },
+  "common": {
+    "email": "אימייל",
+    "first_name": "שם פרטי",
+    "last_name": "שם משפחה",
+    "login": "כניסה",
+    "sign_up": "הרשמה",
+    "password": "סיסמא",
+    "buy": "לרכישה",
+    "total": "סה\"כ",
+    "item": "פריט",
+    "price": "מחיר",
+    "product": "מוצר",
+    "full_name": "שם מלא",
+    "phone_number": "טלפון",
+    "city": "עיר",
+    "street": "רחוב",
+    "house_number": "מספר בית",
+    "apartment_number": "מספר דירה",
+    "zip_code": "מיקוד",
+    "remarks": "הערות",
+    "check_out": "לתשלום",
+    "continue": "המשך"
+  },
+  "check_out": {
+    "complete_purchase": "סיום הרכישה",
+    "choose_extra_options_for_your_order": "בחירת תוספות עבור ההזמנה שלך",
+    "email_delivery_message": "רשיונות המוצרים ישלחו לכתובת המייל: <strong>{{emailAddress}}</strong>",
+    "fast_delivery_message": "אם בחרת במשלוח מהיר, ההזמנה תטופל ותשלח אליך תוך שעה מרגע ביצוע ההזמנה (במסגרת שעות הפעילות). אחרת הטיפול בהזמנה יכול לקחת עד 3 ימי עסקים",
+    "details_for_invoice": "פרטי עסק לצורך חשבונית מס",
+		"process_payments_in_paypal_message": "כל התשלומים מבוצעים דרך האתר של פייפל עקב האבטחה החזקה של האתר. אפילו אם אין ברשותך חשבון פייפל, עדיין ניתן לשלם בעזרת כרטיס אשראי באתר של פייפל ללא כל עמלה"
+  },
+  "invoice": {
+    "company_name": "שם החברה/עוסק",
+    "osek_murshe": "ע.מ",
+    "business_address": "כתובת העסק"
+  },
+  "product": {
+    "buy_it_now": "לרכישה",
+    "add_to_cart": "הוסף לסל",
+    "purchase_options": "אפשרויות רכישה",
+    "item_was_added_to_cart": "הפריט נוסף לסל",
+    "would_you_like_to": "האם ברצונך",
+    "continue_shopping": "להמשיך בקניות",
+    "go_to_checkout": "להמשיך לתשלום"
+  },
+  "paypal_callback": {
+    "error_has_occured_in_paypal_payment": "חלה שגיאה בתהליך התשלום",
+    "processing": "מעבד בקשת תשלום",
+    "your_transaction_could_not_be_processed": "ביצוע העסקה נכשל"
+  },
+  "shopping_cart_summary": {
+    "order_summary": "סיכום הזמנה"
+  },
+  "order_success": {
+    "thank_you_for_your_payment": "תודה על התשלום!",
+    "you_will_receive_email_confirmation_message": "מיד ישלח אליך אימייל עם אישור ההזמנה",
+    "your_order_number_is": "מספר ההזמנה שלך הוא {{orderId}}"
+  },
+  "sign_up": {
+    "a_valid_email_is_required": "יש להכניס כתובת אימייל תקינה",
+    "confirm_password": "אימות סיסמא",
+    "first_name_is_required": "יש להכניס שם פרטי",
+    "last_name_is_required": "יש להכניס שם משפחה",
+    "password_confirmation_does_not_match_password": "אימות הסיסמא אינו תואם לשדה סיסמא",
+    "password_confirmation_is_required": "יש להכניס אימות סיסמא",
+    "password_is_required": "יש להכניס סיסמא",
+    "password_should_be_at_least_x_characters": "הסיסמא חייבת להיות לפחות {{characters}} תווים",
+    "some_of_the_input_fields_are_invalid": "חלק מהשדות אינם תקינים"
+  },
+  "sign_up_success": {
+    "check_your_email": "בדוק את תיבת המייל שלך!",
+    "we_sent_you_activation_link_message": "שלחנו {{emailAddress}} אימייל עם קישור כדי לאמת את החשבון שלך.<br>אם לא הגיע אימייל מאיתנו יש לבדוק בדואר זבל. לפעמים דברים הולכים לאיבוד שם.",
+    "you": "אליך",
+    "to": "אל"
+  },
+  "shopping_cart": {
+    "shopping_cart": "סל קניות",
+    "you_have_x_items_in_cart": "יש לך {{itemsCount}} פריטים בסל הקניות.",
+    "clear_shopping_cart": "נקה את סל הקניות"
+  },
+  "login": {
+    "email_is_required": "יש להכניס אימייל",
+    "invalid_credentials": "פרטי ההתחברות שגויים",
+    "password_is_required": "יש להכניס סיסמא",
+    "login_with_facebook": "התחברות באמצעות פייסבוק",
+    "login_with_google": "התחברות באמצעות גוגל"
+  },
+  "verify": {
+    "user_was_verified": "החשבון אומת",
+    "verification_code_is_incorrect": "קוד האימות שגוי"
+  },
+  "verify_user": {
+    "verifing_account": "מאמת את החשבון"
+  },
+  "navbar": {
+    "home": "בית",
+    "login": "כניסה",
+    "logout": "יציאה"
+  }
+}
